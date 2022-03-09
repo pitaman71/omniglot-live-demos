@@ -1,0 +1,8 @@
+node_modules
+*.json
+*.out
+*.log
+lib/**
+build/**
+config.ts*
+.eslintcache

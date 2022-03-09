@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+}
+
+body {
+  overflow: hidden;
+  height: 100vh;
+}
+
+main {
+  overflow-y: auto;
+}
+
+.top-nav, .bottom-nav {
+  flex: 0 0 auto;
+}
